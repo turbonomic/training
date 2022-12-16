@@ -1,1 +1,1 @@
-"# training"
+"# Git repository for Turbonomic Training Content "
