@@ -1,0 +1,2 @@
+securityContext:
+  fsGroup: 1000630000
